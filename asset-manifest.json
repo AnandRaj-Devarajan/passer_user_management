@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/passer_user_management/users-list/static/css/main.e6c13ad2.css",
+    "main.js": "/passer_user_management/users-list/static/js/main.e792b2dd.js",
+    "static/js/358.1c7a783c.chunk.js": "/passer_user_management/users-list/static/js/358.1c7a783c.chunk.js",
+    "static/js/603.a6b9ce6a.chunk.js": "/passer_user_management/users-list/static/js/603.a6b9ce6a.chunk.js",
+    "static/js/235.274b6c58.chunk.js": "/passer_user_management/users-list/static/js/235.274b6c58.chunk.js",
+    "static/js/47.b984cba2.chunk.js": "/passer_user_management/users-list/static/js/47.b984cba2.chunk.js",
+    "static/js/453.8b8ace45.chunk.js": "/passer_user_management/users-list/static/js/453.8b8ace45.chunk.js",
+    "static/js/434.3d65aa59.chunk.js": "/passer_user_management/users-list/static/js/434.3d65aa59.chunk.js",
+    "static/js/600.4d91420a.chunk.js": "/passer_user_management/users-list/static/js/600.4d91420a.chunk.js",
+    "static/js/65.1bf39f2d.chunk.js": "/passer_user_management/users-list/static/js/65.1bf39f2d.chunk.js",
+    "static/js/424.ca5dfc36.chunk.js": "/passer_user_management/users-list/static/js/424.ca5dfc36.chunk.js",
+    "index.html": "/passer_user_management/users-list/index.html",
+    "main.e6c13ad2.css.map": "/passer_user_management/users-list/static/css/main.e6c13ad2.css.map",
+    "main.e792b2dd.js.map": "/passer_user_management/users-list/static/js/main.e792b2dd.js.map",
+    "358.1c7a783c.chunk.js.map": "/passer_user_management/users-list/static/js/358.1c7a783c.chunk.js.map",
+    "603.a6b9ce6a.chunk.js.map": "/passer_user_management/users-list/static/js/603.a6b9ce6a.chunk.js.map",
+    "235.274b6c58.chunk.js.map": "/passer_user_management/users-list/static/js/235.274b6c58.chunk.js.map",
+    "47.b984cba2.chunk.js.map": "/passer_user_management/users-list/static/js/47.b984cba2.chunk.js.map",
+    "453.8b8ace45.chunk.js.map": "/passer_user_management/users-list/static/js/453.8b8ace45.chunk.js.map",
+    "434.3d65aa59.chunk.js.map": "/passer_user_management/users-list/static/js/434.3d65aa59.chunk.js.map",
+    "600.4d91420a.chunk.js.map": "/passer_user_management/users-list/static/js/600.4d91420a.chunk.js.map",
+    "65.1bf39f2d.chunk.js.map": "/passer_user_management/users-list/static/js/65.1bf39f2d.chunk.js.map",
+    "424.ca5dfc36.chunk.js.map": "/passer_user_management/users-list/static/js/424.ca5dfc36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e792b2dd.js"
+  ]
+}
